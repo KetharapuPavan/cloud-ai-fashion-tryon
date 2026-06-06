@@ -1,0 +1,9 @@
+mediapipe
+opencv-python
+numpy
+torch
+torchvision
+diffusers
+accelerate
+transformers
+Pillow
